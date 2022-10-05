@@ -1,0 +1,7 @@
+numpy==1.21.6
+pickleshare==0.7.5
+pandas==1.3.5
+streamlit==1.12.0
+tensorflow==2.9.1
+nltk==3.7
+regex==2022.8.17
